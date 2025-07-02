@@ -178,8 +178,7 @@ docker-compose up -d
 ### Получить помощь
 - 📖 Прочитайте [документацию](README.md)
 - 🐛 Создайте [Issue](https://github.com/username/relay-bot/issues)
-- 💬 Присоединяйтесь к [Discord серверу](https://discord.gg/your-server)
-- 📧 Напишите на email: support@example.com
+- 💬 Присоединяйтесь к [Discord серверу](https://discord.gg/uNjaSPHCfp)
 
 ### Часто задаваемые вопросы
 
