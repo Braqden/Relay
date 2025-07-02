@@ -1,0 +1,21 @@
+# Core Discord Bot Dependencies
+discord.py>=2.3.0,<3.0.0
+
+# Environment Variables Management
+python-dotenv>=1.0.0,<2.0.0
+
+# Async HTTP Client
+aiohttp>=3.8.0,<4.0.0
+
+# Web Framework (if needed for dashboard)
+Flask>=2.3.0,<3.0.0
+flask-cors>=4.0.0,<5.0.0
+
+# Optional: Enhanced Logging
+coloredlogs>=15.0,<16.0
+
+# Optional: System Monitoring
+psutil>=5.9.0,<6.0.0
+
+# Optional: Date/Time Utilities
+python-dateutil>=2.8.0,<3.0.0
